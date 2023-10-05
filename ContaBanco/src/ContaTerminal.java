@@ -11,7 +11,7 @@ public class ContaTerminal {
 
         System.out.println("Digite o nome do titular: ");
         conta.setNomeCliente(scanner.nextLine());
-        
+
         System.out.println("Digite o número da conta: ");
         conta.setNumero(scanner.nextInt());
 
